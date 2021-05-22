@@ -15,3 +15,11 @@ we can think of the vocabulary we learn as an inherited set of category labels. 
 
 Some languages may have lots of different words for types of ‘rain’ or kinds of ‘coconut’ and other languages may have only one or two. Although the Dani of New Guinea can see all colors of the spectrum, they only use names for two of them, equivalents of ‘black’ and ‘white’. Eskimos have names for those two, plus red, green and yellow. English has names for
 those five colors, plus blue, brown, purple, pink, orange and gray. It seems that languages used by groups with more technology have more color terms.
+
+In some languages, the equivalent of the word *father* is used not only for ‘male parent’, but also for ‘male parent’s brother’. In English,we use the word *uncle* for this other type of individual.
+
+To take a more complex example, when we learn a word such as week or *weekend*, we are inheriting a conceptual system that operates with amounts of time as common categories. Havingwords for units of time such as ‘two days’ or ‘seven days’ shows that we can think of time in amounts, using noun phrases, in the same way as ‘two people’ or ‘seven books’ (i.e. physical objects).
+
+## Linguistic relativity
+In the last two examples,we have treated differences in language use as evidence of differentways of talking about external reality. This is often discussed in terms
+of linguistic relativity because it seems that the structure of our language, with its predetermined categories, must have an influence on how we perceive the world. In its weak version, this idea simply captures the fact thatwe not only talk, but to a certain extent probably also think about the world of experience, using the categories provided by our language. In its strong version, called linguistic determinism, the idea is restated as “language determines thought”, meaning that we can only think in the categories provided by our language.
