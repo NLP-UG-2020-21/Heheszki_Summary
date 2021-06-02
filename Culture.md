@@ -14,7 +14,7 @@ Some languages may have lots of different words for types of ‘rain’ or kinds
 * Eskimos have names for those two, plus red, green and yellow. 
 * English has names for those five colors, plus blue, brown, purple, pink, orange and gray. It seems that languages used by groups with more technology have more color terms.
 
-[Meaning of colours in different coultures.](https://www.informationisbeautiful.net/visualizations/colours-in-cultures/ "Colours in Culture")
+[Meanings of colours in different cultures.](https://www.informationisbeautiful.net/visualizations/colours-in-cultures/ "Colours in Culture")
 
 ## Linguistic relativity
 We treat differences in language use as evidence of different ways of talking about external reality. This is often discussed in terms
