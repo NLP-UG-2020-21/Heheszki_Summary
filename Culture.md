@@ -115,7 +115,7 @@ through their relationship to a man, either as wife or daughter.
 This type of observation leads us to a consideration of the most fundamental
 difference in social categorization, the one based on ‘gender’.
 
-![alt text](https://hustlemamamagazine.com/wp-content/uploads/2020/11/positive-adult-man-woman-talking-1024x683.jpg "Communication")
+![alt text](https://i1.wp.com/www.ronedmondson.com/wp-content/uploads/2011/07/man-woman-talking.jpg?zoom=2 "Communication")
 
 ## Gender
 Although the biological distinction, there is a great deal about the social roles of individuals
